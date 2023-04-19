@@ -736,17 +736,11 @@ p.mail::before {
     .mizani_img_mp3 {
         width: 200px;
         height: 200px;
-        mix-blend-mode: multiply;
     }
 
     .mizani_img_yolo {
         width: 300px;
         height: 200px;
-        mix-blend-mode: multiply;
-    }
-
-    .mizani_img_maixbit{
-        mix-blend-mode: multiply;
     }
 
     .team_container {
